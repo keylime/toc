@@ -43,14 +43,14 @@ criteria to become an incubation-stage project:
     article](https://www.cncf.io/blog/2021/07/06/ibm-implements-remote-attestation-on-linux-with-a-hardware-root-of-trust-using-keylime/)
     provides more information on this deployment.
 
-  * ** NOT YET IN PRODUCTION; REMOVE THIS WHEN IT IS **
+  * **NOT YET IN PRODUCTION; REMOVE THIS WHEN IT IS**
     [Lernstick](https://www.digitale-nachhaltigkeit.unibe.ch/services_and_support/lernstick/index_eng.html),
     an educational operating system for "bring your own" devices that loads from
     USB drives, is using Keylime to guarantee the integrity of the system being
     loaded on student's computers.
 
 
-  * ** ADD THIRD USER **
+  * **ADD THIRD USER**
 
 You can see more users of Keylime in the [Friends of Keylime
 repository](https://github.com/keylime/friends)
@@ -140,6 +140,7 @@ nearly 350 over all the project repositories (cf.
 
 **COMPLETEME**
 * Roadmap: check with Michael / Project Lead
+
 **/COMPLETME**
 
 * Keylime Enhancements: Keylime has a [formal process](https://github.com/keylime/enhancements)
@@ -191,6 +192,6 @@ functional.
 
 ### Specifications require public reference implementation
 
-**Specifications must have at least one public reference implementation**
+**Requirement: Specifications must have at least one public reference implementation**
 
 Not applicable.
